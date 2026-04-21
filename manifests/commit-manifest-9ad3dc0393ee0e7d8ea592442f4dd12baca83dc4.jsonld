@@ -23,13 +23,13 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "branch",
       "repolex:graphFilePath": "branch/branch.nq.gz",
-      "repolex:graphFileSize": 1903
+      "repolex:graphFileSize": 1884
     },
     {
       "@type": "repolex:GraphFile",
       "repolex:graphType": "tag",
       "repolex:graphFilePath": "tag/tag.nq.gz",
-      "repolex:graphFileSize": 2041
+      "repolex:graphFileSize": 2033
     },
     {
       "@type": "repolex:GraphFile",
@@ -45,7 +45,7 @@
     }
   ],
   "repolex:parseStatus": "parsed",
-  "repolex:parsedAt": "2026-04-21T13:17:07.744270+00:00",
+  "repolex:parsedAt": "2026-04-21T13:35:43.440341+00:00",
   "repolex:parserVersion": "0.1.0",
   "git:tagName": "Foundry-v0.3.0"
 }
