@@ -23,13 +23,13 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "branch",
       "repolex:graphFilePath": "branch/branch.nq.gz",
-      "repolex:graphFileSize": 1887
+      "repolex:graphFileSize": 1888
     },
     {
       "@type": "repolex:GraphFile",
       "repolex:graphType": "tag",
       "repolex:graphFilePath": "tag/tag.nq.gz",
-      "repolex:graphFileSize": 2048
+      "repolex:graphFileSize": 2076
     },
     {
       "@type": "repolex:GraphFile",
@@ -45,7 +45,7 @@
     }
   ],
   "repolex:parseStatus": "parsed",
-  "repolex:parsedAt": "2026-04-23T15:47:03.420164+00:00",
+  "repolex:parsedAt": "2026-04-23T16:24:28.495544+00:00",
   "repolex:parserVersion": "0.1.0",
-  "git:tagName": "Aws-v0.2.0"
+  "git:tagName": "Anthropic-v12.11.0"
 }
