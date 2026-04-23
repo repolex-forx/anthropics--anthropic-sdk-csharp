@@ -37,7 +37,7 @@
       "git:hexsha": "d401daf31b8c343223e203cadfc5c7b6b1db23f5",
       "repolex:parseStatus": "parsed",
       "git:tagName": "Bedrock-v0.1.1",
-      "repolex:parsedAt": "2026-04-23T01:28:58.124000+00:00"
+      "repolex:parsedAt": "2026-04-23T16:33:01.465208+00:00"
     },
     {
       "@id": "https://repolex.ai/r/anthropics/anthropic-sdk-csharp/commit/eae4ffef45847e93b6a2c6978f9b9fbe09821f82",

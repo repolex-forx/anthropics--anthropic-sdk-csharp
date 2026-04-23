@@ -81178,8 +81178,8 @@
     },
     {
       "commit": "d401daf31b8c343223e203cadfc5c7b6b1db23f5",
-      "parsed_at": "2026-04-23T01:28:58.123827+00:00",
-      "tag": "Bedrock-v0.1.1",
+      "parsed_at": "2026-04-23T16:33:01.465038+00:00",
+      "tag": "Anthropic-v12.10.0",
       "filetree": "filetree/d401daf31b8c343223e203cadfc5c7b6b1db23f5.nq.gz",
       "blobs": [
         "blob/e93faa754564c6c1b01323a60347e31f4729cf51.nq.gz",
