@@ -103,8 +103,9 @@
     {
       "@id": "https://repolex.ai/r/anthropics/anthropic-sdk-csharp/commit/100e1559a4ad0b7907f8ae5a75ed1a12f5ab774f",
       "git:hexsha": "100e1559a4ad0b7907f8ae5a75ed1a12f5ab774f",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "Anthropic-v12.6.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "Anthropic-v12.6.0",
+      "repolex:parsedAt": "2026-04-24T07:44:59.384900+00:00"
     },
     {
       "@id": "https://repolex.ai/r/anthropics/anthropic-sdk-csharp/commit/03019e715811a39b2ded57718588e4475e77c0f0",
